@@ -1,6 +1,5 @@
 # Windows-Update-Fix 🪄
 
-Windows Update Fix Tool @ LEXARDEV
 # Description
 The Windows Update Fix Tool is a batch script designed to fix common issues with the Windows Update process. It helps resolve problems such as stuck updates, update failures, and corrupted update files by performing the following steps:
 
