@@ -16,10 +16,8 @@ Clears temporary files in the update directories to resolve common update issues
 Resets update-related folders (SoftwareDistribution and catroot2) for a fresh start.
 Restarts update services after the cleanup to resume normal operations.
 Usage
-Download the script:
 
-Download the Windows_Update_Fix_Tool.bat file to your computer.
-Run the script:
+# Run the script:
 
 Right-click on the script and select Run as administrator to ensure the necessary permissions are granted.
 The script will automatically stop the Windows Update services, delete the temporary files, reset the update folders, and restart the services.
