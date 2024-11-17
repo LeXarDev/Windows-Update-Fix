@@ -1,4 +1,4 @@
-# Windows-Update-Fix
+# Windows-Update-Fix 🪄
 
 Windows Update Fix Tool @ LEXARDEV
 # Description
@@ -10,7 +10,7 @@ Resets the SoftwareDistribution and catroot2 directories.
 Restarts the necessary services to restore normal update functionality.
 This tool is intended to provide a simple, one-click solution for resolving Windows Update problems.
 
-# Features
+# Features 📙
 Stops critical update services to safely delete corrupt files.
 Clears temporary files in the update directories to resolve common update issues.
 Resets update-related folders (SoftwareDistribution and catroot2) for a fresh start.
